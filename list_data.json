@@ -1,0 +1,22 @@
+{
+	"songs": [
+		{
+			"Title": "Baarish Ka Asar",
+			"Singer": "Twin Strings",
+			"Genre": "Pop",
+			"Year": "2020"
+		},
+		{
+			"Title": "Mera Bichara Yaar",
+			"Singer": "Strings",
+			"Genre": "Pop",
+			"Year": "2003"
+		},
+		{
+			"Title": "Just A Word",
+			"Singer": "Prateek Kuhad",
+			"Genre": "Indie",
+			"Year": "2008"
+		}
+	]
+}
